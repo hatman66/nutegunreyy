@@ -1,0 +1,33 @@
+img{
+    width: 200px ;
+}
+
+body{
+    height: 3000px;
+    background-color: rgb();
+    background-image: url(./images/Strength_in_Numbers_SWDL.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position:bottom;
+
+    text-align:center;
+}
+
+h1{
+    font-size: 200px;
+    color:rgb(136, 67, 2);
+    text-shadow: 20px 15px  20px black;
+}
+
+p{
+    font-size: 30px;
+}
+
+button{
+    color: white;
+    background-color: black;
+}
+button:hover{
+    background-color: white;
+    color: black;
+}
